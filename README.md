@@ -1,6 +1,6 @@
 #### <div align="right">- Projeto Finalizado <div>
 # <div align="center">backend<div>
-## <div align="center">Aplicação WEB voltada parao backend que simula API<div>
+## <div align="center">Aplicação WEB voltada para o backend que simula API<div>
 ### <div align="center">Sumário <div>
 ### <div align="center">================= <div>
 <!--ts-->
@@ -23,7 +23,7 @@ Para testar as rotas é necessário configurar o Insomnia com as rotas(No exempl
 GET: http://localhost:3333/projects \
 POST: http://localhost:3333/projects \
 PUT: http://localhost:3333/projects/id \
-DELETE: http://localhost:3333/projects/id \
+DELETE: http://localhost:3333/projects/id
 
 
 ## <div align="center">Tecnologias utilizadas<div>
